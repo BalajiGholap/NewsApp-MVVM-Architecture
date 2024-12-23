@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GlobalNews</string>
+    <string name="title_activity_news_headlines">NewsHeadlinesActivity</string>
+    <string name="title_activity_news_sources">NewsSourcesActivity</string>
+    <string name="title_activity_country_list_main">CountryListMainActivity</string>
+    <string name="title_activity_languages">LanguagesActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+</resources>
